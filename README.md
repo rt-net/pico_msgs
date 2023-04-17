@@ -1,4 +1,4 @@
-# picosensor
+# pico_msgs
 ESP32マイコンを搭載したPi:Co Classicをmicro-ROSでセンサの値をメッセージ。
 
 # License
