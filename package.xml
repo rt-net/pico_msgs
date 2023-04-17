@@ -4,8 +4,10 @@
   <name>picosensor</name>
   <version>0.0.1</version>
   <description>Pi:co Sensor Message</description>
-  <maintainer email="aoki@rt-net.jp">aoki</maintainer>
+  <maintainer email="shop@rt-net.jp">RT Corporation</maintainer>
   <license>Apache License 2.0</license>
+
+  <author email="aoki@rt-net.jp">aoki</author>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
