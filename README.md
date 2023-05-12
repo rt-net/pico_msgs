@@ -4,6 +4,8 @@
 
 Pi:Co Classic3用のROSメッセージパッケージです
 
+[Pi:Co Classic3用のmicro-ROS Arduino サンプル集](https://github.com/rt-net/pico_micro_ros_arduino_examples)と組み合わせて使用します
+
 ## License
 
 (C) 2023 RT Corporation
