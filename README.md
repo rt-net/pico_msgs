@@ -2,7 +2,7 @@
 
 [![industrial_ci](https://github.com/rt-net/pico_msgs/actions/workflows/industrial_ci.yml/badge.svg)](https://github.com/rt-net/pico_msgs/actions/workflows/industrial_ci.yml)
 
-Pi:Co Classic用のROSメッセージパッケージ
+Pi:Co Classic3用のROSメッセージパッケージです
 
 ## License
 
